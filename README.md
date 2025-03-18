@@ -9,7 +9,8 @@ ShopStop is a user-friendly iOS shopping application. This app allows users to b
 6. Remove from Cart
 
 **Technology stack:**
-1. iOS framework: Swift, SwiftUI
-2. Architecture: MVVM, Clean Architecture
-3. Networking: UrlSession
-4. Data Storage: UserDefaults
+1. **iOS framework:** Swift, SwiftUI
+2. **Architecture:** MVVM, Clean Architecture
+3. **Networking:** UrlSession
+4. **Data Storage:** UserDefaults
+5. **Unit Text:** XCTest
