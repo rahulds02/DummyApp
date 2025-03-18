@@ -3,8 +3,8 @@
 ShopStop is a user-friendly iOS shopping application. This app allows users to browse products, add items to their cart with clean UI and smooth navigation. It has following features:
 1. Browse the shopping categories
 2. Browse the products
-3. Showing products having "Exclusive Offers
-4. Showing popular products
+3. Showing products having "Exclusive Offers"
+4. Showing "popular products"
 5. Add to Cart
 6. Remove from Cart
 
